@@ -6,8 +6,6 @@ import SvgDashboard from "../images/dashboard.svg?component" // vite-svg-loader 
   <div class="app-container center">
     <SvgDashboard class="svg" />
     <p>欢迎来到「Admin」角色专属首页2222</p>
-    <span>333</span>
-    <span>444</span>
   </div>
 </template>
 
